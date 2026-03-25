@@ -1,0 +1,13 @@
+{
+  "name": "KOICA Eats",
+  "short_name": "KOICA Eats",
+  "description": "아디스아바바 맛집 트래커",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#3182F6",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}

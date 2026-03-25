@@ -1,4 +1,4 @@
-const CACHE_NAME = 'koica-eats-v2';
+const CACHE_NAME = 'koica-eats-v3';
 const ASSETS = ['./', 'icon-192.png', 'icon-512.png', 'manifest.json'];
 
 self.addEventListener('install', e => {

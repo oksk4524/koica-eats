@@ -1,5 +1,5 @@
-const CACHE_NAME = 'koica-eats-v1';
-const ASSETS = ['./'];
+const CACHE_NAME = 'koica-eats-v2';
+const ASSETS = ['./', 'icon-192.png', 'icon-512.png', 'manifest.json'];
 
 self.addEventListener('install', e => {
   e.waitUntil(caches.open(CACHE_NAME).then(c => c.addAll(ASSETS)));

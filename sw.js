@@ -1,4 +1,4 @@
-const CACHE_NAME = 'koica-eats-v3';
+const CACHE_NAME = 'koica-eats-v4';
 const ASSETS = ['./', 'icon-192.png', 'icon-512.png', 'manifest.json'];
 
 self.addEventListener('install', e => {
@@ -18,12 +18,12 @@ self.addEventListener('activate', e => {
 self.addEventListener('fetch', e => {
   if (e.request.url.includes('maps.google') || e.request.url.includes('google.com/maps')) return;
   e.respondWith(
-    caches.match(e.request).then(r => r || fetch(e.request).then(res => {
+    fetch(e.request).then(res => {
       if (res.ok && e.request.method === 'GET') {
         const clone = res.clone();
         caches.open(CACHE_NAME).then(c => c.put(e.request, clone));
       }
       return res;
-    }).catch(() => caches.match('./')))
+    }).catch(() => caches.match(e.request).then(r => r || caches.match('./')))
   );
 });

@@ -1,0 +1,203 @@
+[
+  {
+    "id": "yod",
+    "name": "Yod Abyssinia Traditional Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Yod+Abyssinia+Addis+Ababa",
+    "rating": "4.4",
+    "ratingSource": "Google (1,526 reviews)",
+    "tags": ["에티오피아전통", "고급", "라이브공연", "문화체험"],
+    "area": "Bole Medhaniyalem (공항 도보거리)"
+  },
+  {
+    "id": "kategna",
+    "name": "Kategna Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Kategna+Restaurant+Addis+Ababa",
+    "rating": "4.4",
+    "ratingSource": "Google (703 reviews)",
+    "tags": ["에티오피아전통", "인젝라", "현지인맛집"],
+    "area": "Cameroon St, Bole / Meskel Flower / Bole Road"
+  },
+  {
+    "id": "totot",
+    "name": "Totot Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Totot+Restaurant+Addis+Ababa",
+    "rating": "4.1",
+    "ratingSource": "Google (537 reviews)",
+    "tags": ["에티오피아전통", "대중적"],
+    "area": "Gerji"
+  },
+  {
+    "id": "2000habesha",
+    "name": "2000 Habesha Cultural Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=2000+Habesha+Addis+Ababa",
+    "rating": "4.3",
+    "ratingSource": "Google (712 reviews)",
+    "tags": ["에티오피아전통", "고급", "라이브공연", "문화체험"],
+    "area": "Namibia St, Bole Atlas"
+  },
+  {
+    "id": "dashen",
+    "name": "Dashen Traditional Ethiopian Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Dashen+Traditional+Restaurant+Addis+Ababa",
+    "rating": "4.3",
+    "ratingSource": "Google (316 reviews)",
+    "tags": ["에티오피아전통", "라이브공연"],
+    "area": "Togo St, Yeka"
+  },
+  {
+    "id": "brundo",
+    "name": "Brundo Butchery",
+    "map": "https://www.google.com/maps/search/?api=1&query=Brundo+Butchery+Addis+Ababa",
+    "rating": "",
+    "tags": ["에티오피아전통", "키트포", "전통생고기"],
+    "area": "Atlas, ECA 앞"
+  },
+  {
+    "id": "taitu",
+    "name": "Itegue Taitu Hotel Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Itegue+Taitu+Hotel+Addis+Ababa",
+    "rating": "3.9",
+    "ratingSource": "Google (212 reviews)",
+    "tags": ["역사유적", "에티오피아전통", "비건뷔페", "재즈"],
+    "area": "Piazza (에티오피아 최초 호텔, 1898년)"
+  },
+  {
+    "id": "lucy",
+    "name": "Lucy Gazebo Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Lucy+Gazebo+Restaurant+Addis+Ababa",
+    "rating": "",
+    "ratingSource": "TripAdvisor 4.0",
+    "tags": ["퓨전", "가든", "유럽식+에티오피아"],
+    "area": "King George VI St, National Museum 옆"
+  },
+  {
+    "id": "castelli",
+    "name": "Castelli Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Castelli+Restaurant+Addis+Ababa",
+    "rating": "3.9",
+    "ratingSource": "Google (229 reviews)",
+    "tags": ["이탈리안", "클래식", "역사적(1948년)"],
+    "area": "Piazza, Mahatma Gandhi St"
+  },
+  {
+    "id": "makush",
+    "name": "Makush Art Gallery & Italian Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Makush+Art+Gallery+Restaurant+Addis+Ababa",
+    "rating": "4.5",
+    "ratingSource": "Google (104 reviews)",
+    "tags": ["이탈리안", "아트갤러리", "분위기좋은"],
+    "area": "Bole Road, Mega Building 1층"
+  },
+  {
+    "id": "sapore",
+    "name": "Sapore Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sapore+Restaurant+Addis+Ababa",
+    "rating": "4.2",
+    "ratingSource": "Google (282 reviews)",
+    "tags": ["이탈리안", "라자냐맛집", "피자"],
+    "area": "Zimbabwe St, Bole Japan"
+  },
+  {
+    "id": "gusto",
+    "name": "Gusto Ristorante",
+    "map": "https://www.google.com/maps/search/?api=1&query=Gusto+Ristorante+Addis+Ababa",
+    "rating": "4.0",
+    "ratingSource": "Google (288 reviews) - 영구폐업 가능성",
+    "tags": ["이탈리안", "고급"],
+    "area": "Tracon Tower 3층, Churchill Ave"
+  },
+  {
+    "id": "effoi",
+    "name": "Effoi Pizza",
+    "map": "https://www.google.com/maps/search/?api=1&query=Effoi+Pizza+Addis+Ababa",
+    "rating": "4.2",
+    "ratingSource": "Google (423 reviews)",
+    "tags": ["피자", "현지브랜드", "다점포"],
+    "area": "Bole/Atlas/Kazanchis/Ayat (4개 지점)"
+  },
+  {
+    "id": "kelis",
+    "name": "Keli's Gourmet Burger",
+    "map": "https://www.google.com/maps/search/?api=1&query=Kelis+Gourmet+Burger+Addis+Ababa",
+    "rating": "",
+    "ratingSource": "TripAdvisor 4.5",
+    "tags": ["버거", "서양식", "브런치"],
+    "area": "Bole Atlas, Homenet 맞은편"
+  },
+  {
+    "id": "romina",
+    "name": "Romina Restaurant & Bar",
+    "map": "https://www.google.com/maps/search/?api=1&query=Romina+Restaurant+Addis+Ababa",
+    "rating": "4.2",
+    "ratingSource": "Google",
+    "tags": ["에티오피아전통", "인터내셔널", "50년노포"],
+    "area": "Arat Kilo / Kazanchis (2개 지점)"
+  },
+  {
+    "id": "aladdin",
+    "name": "Aladdin Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Aladdin+Restaurant+Addis+Ababa",
+    "rating": "4.3",
+    "ratingSource": "Google",
+    "tags": ["아르메니아", "지중해", "중동", "25년운영"],
+    "area": "Bole, Besrat Gabriel Rd"
+  },
+  {
+    "id": "the-kitchen",
+    "name": "The Kitchen",
+    "map": "https://www.google.com/maps/search/?api=1&query=The+Kitchen+Hyatt+Regency+Addis+Ababa",
+    "rating": "4.0",
+    "ratingSource": "Google",
+    "tags": ["중동", "인터내셔널", "호텔레스토랑"],
+    "area": "Hyatt Regency, Meskel Square"
+  },
+  {
+    "id": "oda",
+    "name": "Oda Restaurant and Cafe",
+    "map": "https://www.google.com/maps/search/?api=1&query=Oda+Restaurant+Oromo+Cultural+Center+Addis+Ababa",
+    "rating": "",
+    "tags": ["에티오피아전통", "오로모", "문화체험"],
+    "area": "Oromo Cultural Center"
+  },
+  {
+    "id": "the-oriental",
+    "name": "The Oriental",
+    "map": "https://www.google.com/maps/search/?api=1&query=The+Oriental+Restaurant+Addis+Ababa",
+    "rating": "4.2",
+    "ratingSource": "Google",
+    "tags": ["아시안", "태국", "일식", "인도", "중식"],
+    "area": "시내"
+  },
+  {
+    "id": "hankuk",
+    "name": "Han Kuk Korean Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Han+Kuk+Korean+Restaurant+Addis+Ababa",
+    "rating": "",
+    "tags": ["한식", "BBQ", "고급"],
+    "area": "시내"
+  },
+  {
+    "id": "cali-burger",
+    "name": "Cali Burger + Cafe",
+    "map": "https://www.google.com/maps/search/?api=1&query=Cali+Burger+Cafe+Addis+Ababa",
+    "rating": "",
+    "tags": ["버거", "캐주얼"],
+    "area": "Djibouti St, Hiya Hulet 인근"
+  },
+  {
+    "id": "burger-shack",
+    "name": "Burger Shack",
+    "map": "https://www.google.com/maps/search/?api=1&query=Burger+Shack+Addis+Ababa",
+    "rating": "",
+    "tags": ["버거", "스테이크"],
+    "area": "Bole"
+  },
+  {
+    "id": "lost-in",
+    "name": "Lost In Burger",
+    "map": "https://www.google.com/maps/search/?api=1&query=Lost+In+Burger+Bole+Addis+Ababa",
+    "rating": "",
+    "tags": ["버거", "스매시버거"],
+    "area": "Bole, Reksym Plaza 1층"
+  }
+]

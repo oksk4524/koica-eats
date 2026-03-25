@@ -1,0 +1,390 @@
+[
+  {
+    "id": "antica",
+    "name": "Antica Bar & Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Antica+Restaurant,+Addis+Ababa",
+    "rating": "3.9",
+    "tags": ["이탈리안", "아프리칸"],
+    "area": "Bole"
+  },
+  {
+    "id": "mamma-mia",
+    "name": "Mamma Mia Italian Restaurant & Bar",
+    "map": "https://www.google.com/maps/search/?api=1&query=Mamma+Mia+Italian+Restaurant+Addis+Ababa",
+    "rating": "4.1",
+    "tags": ["이탈리안"],
+    "area": "Kazanchis"
+  },
+  {
+    "id": "andiamo",
+    "name": "Andiamo Italian Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Andiamo+Italian+Restaurant+Addis+Ababa",
+    "rating": "4.1",
+    "tags": ["이탈리안", "파스타", "피자"],
+    "area": "Shola / Sarbet"
+  },
+  {
+    "id": "bettucci",
+    "name": "Bettucci Ristorante & Pizzeria",
+    "map": "https://www.google.com/maps/search/?api=1&query=Bettucci+Ristorante+Pizzeria+Addis+Ababa",
+    "rating": "4.5",
+    "tags": ["이탈리안", "피자"],
+    "area": "Alem Village (Vatican Embassy 뒤)"
+  },
+  {
+    "id": "aba-guben",
+    "name": "Aba Guben",
+    "map": "https://www.google.com/maps/search/?api=1&query=Aba+Guben+Restaurant+Addis+Ababa",
+    "rating": "4.0",
+    "tags": ["이탈리안", "로컬"],
+    "area": "Old Airport",
+    "note": "영업 중단 가능성 있음 - 방문 전 확인 필요"
+  },
+  {
+    "id": "la-mandoline",
+    "name": "La Mandoline",
+    "map": "https://www.google.com/maps/search/?api=1&query=La+Mandoline+French+Restaurant+Addis+Ababa",
+    "rating": "4.3",
+    "tags": ["프렌치"],
+    "area": "Bole Atlas"
+  },
+  {
+    "id": "la-lyonnaise",
+    "name": "La Lyonnaise",
+    "map": "",
+    "rating": "",
+    "tags": ["프렌치", "비스트로"],
+    "area": "Bole (Edna Mall 인근)",
+    "note": "Google Maps 정보 미확인 - 소규모 비스트로로 온라인 정보 제한적"
+  },
+  {
+    "id": "le-grand-reve",
+    "name": "Le Grand Reve",
+    "map": "https://www.google.com/maps/search/?api=1&query=Le+Grand+Reve+Restaurant+Addis+Ababa",
+    "rating": "4.0",
+    "tags": ["벨기에", "유럽식"],
+    "area": "Bole (Atlas Hotel 인근)"
+  },
+  {
+    "id": "villa-verde",
+    "name": "Villa Verde",
+    "map": "https://www.google.com/maps/search/?api=1&query=Villa+Verde+Addis+Ababa",
+    "rating": "4.0",
+    "tags": ["이탈리안", "지중해식", "라운지"],
+    "area": "Meskel Flower"
+  },
+  {
+    "id": "sichuan",
+    "name": "Sichuan Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sichuan+Chinese+Restaurant+Addis+Ababa",
+    "rating": "4.3",
+    "tags": ["중식", "사천요리"],
+    "area": "Kazanchis (ODA Building)"
+  },
+  {
+    "id": "rainbow-korean",
+    "name": "Rainbow Korean Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Rainbow+Korean+Restaurant+Addis+Ababa",
+    "rating": "4.0",
+    "tags": ["한식"],
+    "area": "Bole Rwanda"
+  },
+  {
+    "id": "daejanggeum",
+    "name": "대장금 Korean Restaurant",
+    "map": "",
+    "rating": "",
+    "tags": ["한식"],
+    "area": "Addis Ababa",
+    "note": "Google Maps 정보 미확인 - Facebook 페이지만 존재"
+  },
+  {
+    "id": "santorini",
+    "name": "Santorini Greek Restaurant",
+    "map": "https://www.google.com/maps/search/?api=1&query=Santorini+Greek+Restaurant+Addis+Ababa",
+    "rating": "4.5",
+    "tags": ["그리스식"],
+    "area": "Meskel Square 남부"
+  },
+  {
+    "id": "beer-garden-inn",
+    "name": "Beer Garden Inn",
+    "map": "https://www.google.com/maps/search/?api=1&query=Beer+Garden+Inn+Addis+Ababa",
+    "rating": "3.6",
+    "tags": ["호텔레스토랑", "바"],
+    "area": "Bole"
+  },
+  {
+    "id": "kaldis-coffee",
+    "name": "Kaldi's Coffee",
+    "map": "https://www.google.com/maps/search/?api=1&query=Kaldi's+Coffee+Addis+Ababa",
+    "rating": "3.8",
+    "tags": ["카페", "커피"],
+    "area": "Addis Ababa (다수 지점)"
+  },
+  {
+    "id": "garden-of-coffee",
+    "name": "Garden of Coffee",
+    "map": "https://www.google.com/maps/search/?api=1&query=Garden+of+Coffee+Addis+Ababa",
+    "rating": "4.5",
+    "tags": ["카페", "커피", "로스터리"],
+    "area": "Bole (Tele Bole, Grace Plaza)"
+  },
+  {
+    "id": "cascara-coffee",
+    "name": "Cascara Coffee & Cocktails",
+    "map": "https://www.google.com/maps/search/?api=1&query=Cascara+Coffee+Cocktails+Hyatt+Regency+Addis+Ababa",
+    "rating": "4.4",
+    "tags": ["카페", "칵테일", "호텔"],
+    "area": "Hyatt Regency (Meskel Square)"
+  },
+  {
+    "id": "bespoken-coffee",
+    "name": "Bespoken Coffee Roasters",
+    "map": "https://www.google.com/maps/search/?api=1&query=Bespoken+Coffee+Roasters+Bole+Addis+Ababa",
+    "rating": "",
+    "tags": ["카페", "로스터리"],
+    "area": "Bole"
+  },
+  {
+    "id": "mamokacha",
+    "name": "Mamokacha",
+    "map": "https://www.google.com/maps/search/?api=1&query=Mamokacha+Bole+Rwanda+Addis+Ababa",
+    "rating": "4.4",
+    "tags": ["카페", "커피", "브런치"],
+    "area": "Bole Rwanda St"
+  },
+  {
+    "id": "alem-bunna",
+    "name": "Alem Bunna",
+    "map": "https://www.google.com/maps/search/?api=1&query=Alem+Bunna+Kazanchis+Addis+Ababa",
+    "rating": "",
+    "tags": ["카페", "커피"],
+    "area": "Kazanchis"
+  },
+  {
+    "id": "akkoo-coffee",
+    "name": "AKKOO Coffee",
+    "map": "https://www.google.com/maps/search/?api=1&query=AKKOO+Coffee+Churchill+Road+Addis+Ababa",
+    "rating": "4.3",
+    "tags": ["카페", "커피", "24시간"],
+    "area": "Churchill Road"
+  },
+  {
+    "id": "mokarar-coffee",
+    "name": "Mokarar Coffee",
+    "map": "https://www.google.com/maps/search/?api=1&query=Mokarar+Coffee+Piassa+Addis+Ababa",
+    "rating": "4.5",
+    "tags": ["카페", "커피", "로스터리"],
+    "area": "Piassa"
+  },
+  {
+    "id": "shiro-meda-market",
+    "name": "Shiro Meda Market",
+    "map": "https://www.google.com/maps/search/?api=1&query=Shiro+Meda+Market+Addis+Ababa",
+    "rating": "4.0",
+    "tags": ["시장", "전통의류", "기념품"],
+    "area": "Shiro Meda"
+  },
+  {
+    "id": "zaaf-collection",
+    "name": "ZAAF Collection",
+    "map": "https://www.google.com/maps/search/?api=1&query=ZAAF+Collection+Addis+Ababa",
+    "rating": "4.5",
+    "tags": ["가죽제품", "패션", "기념품"],
+    "area": "Bole, Gabon St"
+  },
+  {
+    "id": "safi-honey",
+    "name": "Safi Honey",
+    "map": "https://www.google.com/maps/search/?api=1&query=Safi+Honey+Shop+Addis+Ababa",
+    "rating": "4.8",
+    "tags": ["꿀", "기념품", "식품"],
+    "area": "Flamingo area"
+  },
+  {
+    "id": "sabahar",
+    "name": "Sabahar",
+    "map": "https://www.google.com/maps/search/?api=1&query=Sabahar+Addis+Ababa",
+    "rating": "4.7",
+    "tags": ["텍스타일", "수공예", "기념품"],
+    "area": "Mekanissa"
+  },
+  {
+    "id": "edna-mall",
+    "name": "Edna Mall",
+    "map": "https://www.google.com/maps/search/?api=1&query=Edna+Mall+Addis+Ababa",
+    "rating": "4.0",
+    "tags": ["쇼핑몰", "엔터테인먼트"],
+    "area": "Bole (Cameroon St)"
+  },
+  {
+    "id": "unity-park",
+    "name": "Unity Park",
+    "map": "https://www.google.com/maps/search/?api=1&query=Unity+Park+Addis+Ababa",
+    "rating": "4.6",
+    "tags": ["관광지", "역사", "동물원"],
+    "area": "4 Kilo (대통령궁 내)",
+    "note": "입장료 USD 20. 화~일 09:00~16:00. 흑갈기 사자, 기린, 얼룩말 등 37종 포유류. 왕궁 역사 건물, 토착 정원"
+  },
+  {
+    "id": "national-museum",
+    "name": "에티오피아 국립박물관",
+    "map": "https://www.google.com/maps/search/?api=1&query=National+Museum+of+Ethiopia+Addis+Ababa",
+    "rating": "4.3",
+    "tags": ["관광지", "박물관"],
+    "area": "King George VI St",
+    "note": "입장료 10 Birr. 매일 09:00~17:30. 루시(Lucy) 화석, 고대 유물"
+  },
+  {
+    "id": "entoto-park",
+    "name": "Entoto Natural Park",
+    "map": "https://www.google.com/maps/search/?api=1&query=Entoto+Natural+Park+Addis+Ababa",
+    "rating": "4.4",
+    "tags": ["관광지", "자연", "액티비티"],
+    "area": "시내 북쪽 (차 20~30분)",
+    "note": "입장료 1,100 Birr(외국인). 짚라인, 승마, 고카트, 양궁 등 액티비티. 해발 3000m+ 겉옷 필수"
+  },
+  {
+    "id": "holy-trinity",
+    "name": "Holy Trinity Cathedral",
+    "map": "https://www.google.com/maps/search/?api=1&query=Holy+Trinity+Cathedral+Addis+Ababa",
+    "rating": "4.5",
+    "tags": ["관광지", "성당", "역사"],
+    "area": "Arat Kilo",
+    "note": "에티오피아 정교회 최고 성당. 하일레 셀라시에 안장지. 어깨·무릎 가리는 복장 필수"
+  },
+  {
+    "id": "red-terror",
+    "name": "Red Terror Martyrs Museum",
+    "map": "https://www.google.com/maps/search/?api=1&query=Red+Terror+Martyrs+Memorial+Museum+Addis+Ababa",
+    "rating": "4.7",
+    "tags": ["관광지", "박물관", "역사"],
+    "area": "Meskel Square 인근",
+    "note": "무료 입장. 매일 08:00~18:30. 데르그 군사정권 희생자 추모관"
+  },
+  {
+    "id": "ethnological",
+    "name": "민족학박물관 (Ethnological Museum)",
+    "map": "https://www.google.com/maps/search/?api=1&query=Ethnological+Museum+Addis+Ababa",
+    "rating": "4.5",
+    "tags": ["관광지", "박물관"],
+    "area": "아디스아바바대학교",
+    "note": "입장료 100 Birr. 하일레 셀라시에 전 궁전. 아프리카 최고 박물관 중 하나"
+  },
+  {
+    "id": "st-george",
+    "name": "St. George Cathedral",
+    "map": "https://www.google.com/maps/search/?api=1&query=St+George+Cathedral+Addis+Ababa",
+    "rating": "4.4",
+    "tags": ["관광지", "성당", "역사"],
+    "area": "Piazza",
+    "note": "1896년 이탈리아 승전 기념. 팔각형 구조. 종교화·십자가 소장"
+  },
+  {
+    "id": "meskel-square",
+    "name": "Meskel Square",
+    "map": "https://www.google.com/maps/search/?api=1&query=Meskel+Square+Addis+Ababa",
+    "rating": "4.2",
+    "tags": ["관광지", "광장"],
+    "area": "시내 중심",
+    "note": "아디스 상징 광장. 9월 메스켈 축제. 주변: Red Terror Museum, Africa Hall"
+  },
+  {
+    "id": "africa-hall",
+    "name": "Africa Hall & AU 본부",
+    "map": "https://www.google.com/maps/search/?api=1&query=African+Union+Headquarters+Addis+Ababa",
+    "rating": "4.3",
+    "tags": ["관광지", "역사"],
+    "area": "Meskel Square 인근",
+    "note": "1961년 아프리카 최초 현대식 회의 시설. UNECA + AU 본부"
+  },
+  {
+    "id": "mercato",
+    "name": "Addis Mercato",
+    "map": "https://www.google.com/maps/search/?api=1&query=Merkato+Market+Addis+Ababa",
+    "rating": "3.8",
+    "tags": ["관광지", "시장", "기념품"],
+    "area": "시내 서쪽",
+    "note": "아프리카 최대 노천시장. 13,000명 종사. 흥정 필수, 소매치기 주의, 가이드 동행 추천"
+  },
+  {
+    "id": "salems",
+    "name": "Salem's Ethiopia",
+    "map": "https://www.google.com/maps/search/?api=1&query=Salems+Ethiopia+Addis+Ababa",
+    "rating": "4.6",
+    "tags": ["기념품", "공방", "페어트레이드"],
+    "area": "Bole Medhane Alem",
+    "note": "월~토 09:00~18:00. 주얼리·직물·바스켓. 장인 라이브 제작 관람. 커피 세레모니 체험"
+  },
+  {
+    "id": "allinone",
+    "name": "All In One Souvenir & Gift Shop",
+    "map": "https://www.google.com/maps/search/?api=1&query=All+In+One+Souvenir+Gift+Shop+Addis+Ababa",
+    "rating": "4.3",
+    "tags": ["기념품"],
+    "area": "Nigeria St",
+    "note": "매일 08:30~19:00. 수공예품·직물·기념품 원스톱 숍"
+  },
+  {
+    "id": "churchill-souvenirs",
+    "name": "Churchill Road 기념품 골목",
+    "map": "https://www.google.com/maps/search/?api=1&query=Churchill+Avenue+Addis+Ababa",
+    "rating": "",
+    "tags": ["기념품", "시장"],
+    "area": "Churchill Ave",
+    "note": "에티오피아 십자가($5~50), 양피지 그림($10~30), 은 주얼리, 전통 악기. 흥정 필수"
+  },
+  {
+    "id": "shoa",
+    "name": "Shoa Supermarket",
+    "map": "https://www.google.com/maps/search/?api=1&query=Shoa+Supermarket+Addis+Ababa",
+    "rating": "4.0",
+    "tags": ["마트"],
+    "area": "다수 지점 (Bole, Kazanchis, Megenagna 등)",
+    "note": "에티오피아 대표 체인. 10개+ 지점. 현지+수입 식품"
+  },
+  {
+    "id": "elfora",
+    "name": "Elfora Market",
+    "map": "https://www.google.com/maps/search/?api=1&query=Elfora+Market+Addis+Ababa",
+    "rating": "4.1",
+    "tags": ["마트"],
+    "area": "Bole",
+    "note": "대형 현대식 마트. 국제 브랜드, 델리, 베이커리"
+  },
+  {
+    "id": "fantu",
+    "name": "Fantu Supermarket",
+    "map": "https://www.google.com/maps/search/?api=1&query=Fantu+Supermarket+Addis+Ababa",
+    "rating": "4.0",
+    "tags": ["마트"],
+    "area": "Old Airport / Bole Road (4개 지점)",
+    "note": "수입 식품 종류 가장 다양. 미국 시리얼, 유럽 초콜릿"
+  },
+  {
+    "id": "friendship",
+    "name": "Friendship Supermarket",
+    "map": "https://www.google.com/maps/search/?api=1&query=Friendship+Supermarket+Addis+Ababa",
+    "rating": "4.2",
+    "tags": ["마트"],
+    "area": "Bole, Friendship Square",
+    "note": "프리미엄 수입품, 유기농, 스페셜티 푸드"
+  },
+  {
+    "id": "safeway",
+    "name": "Safeway Supermarket",
+    "map": "https://www.google.com/maps/search/?api=1&query=Safeway+Supermarket+Addis+Ababa",
+    "rating": "4.0",
+    "tags": ["마트"],
+    "area": "시내"
+  },
+  {
+    "id": "bambis",
+    "name": "Bambis",
+    "map": "https://www.google.com/maps/search/?api=1&query=Bambis+Supermarket+Kazanchis+Addis+Ababa",
+    "rating": "3.8",
+    "tags": ["마트"],
+    "area": "Kazanchis"
+  }
+]
